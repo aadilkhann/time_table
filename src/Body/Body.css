@@ -1,0 +1,10 @@
+.Body{
+    display: flex;
+    /* height: 60%; */
+    height: fit-content;
+    width: fit-content;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+    overflow: hidden;
+}
